@@ -10,22 +10,31 @@ to meet food demands along with the right nutrition and security, agriculture wo
 as the top priority sector for any country. To enhance the effciency of the supply chain going inline with
 the demands of any nation, it is necessary to have effective solutions to iterative tasks like fruit picking,
 ploughing, sowing etc.
+
 Hence innovation in the agricultural yield will result in great impact on mankind and economy.
 Articulated robots for fruit picking is a technology that enables autonomy in agriculture processes. As a
 robotics engineer, I feel it is my moral responsibility to automate arduous jobs done by farmers and increase
 yield. Hence, this is my motivation to choose the following robot as my modelling project.
 
 # Robot Image
-![](Images/1.jpg)
+
+<p align="center">
+  <img width="700" height="700" src="Images/2.jpg">
+</p>
+
 Isometric view 1
 
-![](Images/2.jpg)
+<p align="center">
+  <img width="700" height="750" src="Images/1.jpg">
+</p>
+
 Isometric view 2
 
 Links are represented with different colours for easy recognation.
 
 # DH Table
 ![](Images/4.jpg)
+
 DH table of Robot.
 
 Iniital position while animation with simmechanics.
@@ -61,9 +70,11 @@ Any thing else change will result in no issue in the functionality.
 
 ## Image of robot in simscape environment.
 ![](Images/5.jpg)
+
 Initial position
 
 ![](Images/6.jpg)
+
 Final position
 
 ## Note for details of Modelling, Designing, Inverse Kinematics and Forward Kinematics of Fruit Picking Robot refer report and matlab files.
