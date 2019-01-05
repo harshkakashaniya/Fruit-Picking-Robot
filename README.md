@@ -1,6 +1,6 @@
 # Fruit-Picking-Robot
 
-Introduction
+## Introduction
 
 The 3 basic needs of human beings are food, shelter and clothing. Parallel, the world population is
 also growing at a very steep rate. Hence, natural resources such as land and water is always under continuous
@@ -22,24 +22,26 @@ yield. Hence, this is my motivation to choose the following robot as my modellin
   <img width="700" height="700" src="Images/2.jpg">
 </p>
 
-Isometric view 1
+<p align="center">Isometric view 1<p align="center">
+
 
 <p align="center">
   <img width="700" height="750" src="Images/1.jpg">
 </p>
 
-Isometric view 2
+<p align="center">Isometric view 2<p align="center">
 
 Links are represented with different colours for easy recognation.
 
 # DH Table
 ![](Images/4.jpg)
 
-DH table of Robot.
-
-Iniital position while animation with simmechanics.
+<p align="center">DH table of Robot.<p align="center">
 
 ![](Images/3.jpg)
+
+<p align="center">Initial position while animation with simmechanics.
+<p align="center">
 
 # Steps of working this project.
 
@@ -71,10 +73,11 @@ Any thing else change will result in no issue in the functionality.
 ## Image of robot in simscape environment.
 ![](Images/5.jpg)
 
-Initial position
+<p align="center">Initial position<p align="center">
 
 ![](Images/6.jpg)
 
-Final position
+<p align="center">Final position<p align="center">
+
 
 ## Note for details of Modelling, Designing, Inverse Kinematics and Forward Kinematics of Fruit Picking Robot refer report and matlab files.
